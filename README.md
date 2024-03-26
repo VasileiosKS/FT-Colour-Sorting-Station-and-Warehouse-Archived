@@ -1,7 +1,8 @@
 # FT  Colour Sorting Station and Warehouse (Archived)
 
 
-# Description
+# Description 
+- First Attempt at recreating a model containing two different modules colour sorting station and warehouse combo.
 
 # Detailed Part List:
 
