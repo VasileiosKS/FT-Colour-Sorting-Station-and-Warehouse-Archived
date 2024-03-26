@@ -38,7 +38,7 @@
           - Gearbox                            (31 078) (qt x1)  
 
 - Electronics:
-    - Arduino Uno (qt x1) or any other microcontroller with at least 5 Inputs and 7 Outputs.
+    - Arduino Uno (or any other microcontroller with at least 5 Inputs and 7 Outputs.)
     - Sensors:
         - Color Sensor: APDS9960 (qt x1)
         - Infrared Detection: TCRT5000 Based Modules (qt x4)
