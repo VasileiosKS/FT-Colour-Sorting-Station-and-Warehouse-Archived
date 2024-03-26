@@ -37,8 +37,7 @@
           - Motor XS 9V                       (137 096) (qt x1)
           - Gearbox                            (31 078) (qt x1)  
 
-- Non Fischer Technik Parts:
-  Electronics:
+- Electronics:
     - Arduino Uno (qt x1) or any other microcontroller with at least 5 Inputs and 7 Outputs.
     - Sensors:
         - Color Sensor: APDS9960 (qt x1)
