@@ -6,7 +6,6 @@
 # Detailed Part List:
 
 - Fischer Technik Kits: Various parts that were used from the following kits.
-- 
     1.Creative Mechanics Box :
       - Plastic Tray Box (36360)
       - Bulding Plate (32 985)
@@ -25,7 +24,7 @@
       - Pneumatic cylinder 60mm (36 938) (qt x3)
       - Pneumatic hose (156 107)
   
-    4. Motor Set XS / E-tronic
+    5. Motor Set XS
       - Motor XS 9V (137 096) (qt x1)
       - Gearbox (31 078) (qt x1)  
 
@@ -40,7 +39,7 @@
     - 3/2 Position Air Valve (qt x4)
     - XL6009 DC-DC Step Down Buck Converter (qt x1).
 
-   3D Printed Parts:
+- 3D Printed Parts:
        While this model can be replicated using only Fischer Technik Blocks,
 
       Note: For more compatilble parts with FT's ecosystem, check out this repository:
