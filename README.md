@@ -6,19 +6,24 @@
 # Detailed Part List:
 
 - Fischer Technik Kits:
-  Various parts that were used from the following kits:
+  Various parts that were used from the following kits: 
   
         1.Creative Mechanics Box:
-          - Plastic Tray Box                   (36 360)
-          - Bulding Plate                      (32 985)
-          - Bulding Block: Black 2x1 15mm*30mm (32 879)
-          - Turntable top                      (31 390) 
-          - Turntable case                     (31 391)
+          - Plastic Tray Box                   (36 360) (qt x1)
+          - Bulding Plate                      (32 985) (qt x1)
+          - Bulding Block: Black 2x1 15mm*30mm (32 879) (qt x6)
+          - Turntable top                      (31 390) (qt x1)
+          - Turntable case                     (31 391) (qt x1)
         
         2.Advanced Universal 3/4:
           - Track link                         (31 790) (qt x44)
           - Chain link 13,5mm                 (128 659) (qt x90)
           - Bottom plate 30mmx90mm            (163 433) (qt x2)
+          - Bulding Block: Black 2x1 15mm*30mm (32 879) (qt ~x25)
+          - Bulding Block: Black 1x1 15mm*15mm (32 881) (qt ~x8)
+          - Angular block 30 Degrees           (31 011) (qt ~x8)
+          - Link                               (31 061) (qt ~x10)
+          - Building block 7,5mm*15mm          (37 468) (qt ~x24)
         
         3.E-tronic: 
           - Light cap Transparent              (35 086) (qt x1)
@@ -26,7 +31,7 @@
         4.Strong Pneumatics:
           - Compressor 24V                     (144 740) (qt x1)
           - Pneumatic cylinder 60mm             (36 938) (qt x3)
-          - Pneumatic hose                     (156 107) 
+          - Pneumatic hose                     (156 107) (qt >2meters)
       
         5.Motor Set XS:
           - Motor XS 9V                       (137 096) (qt x1)
