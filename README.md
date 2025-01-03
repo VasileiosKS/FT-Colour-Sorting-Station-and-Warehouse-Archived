@@ -1,6 +1,6 @@
 # FT  Colour Sorting Station and Warehouse (Archived)
 # Video
-[https://www.youtube.com/watch?v=bkeEC7VZXAY]
+https://www.youtube.com/watch?v=bkeEC7VZXAY
 # Description 
 - First Attempt at recreating a model containing two different modules colour sorting station and warehouse combo.
 
