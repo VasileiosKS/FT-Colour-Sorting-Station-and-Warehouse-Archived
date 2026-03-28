@@ -2,7 +2,7 @@
 ![alt text](https://github.com/VasileiosKS/FT-Colour-Sorting-Station-and-Warehouse-Archived/blob/main/image.png)
 
 # Video
-[![IMAGE ALT TEXT HERE](https://github.com/VasileiosKS/FT-Colour-Sorting-Station-and-Warehouse-Archived/blob/main/image.png)](https://www.youtube.com/watch?v=bkeEC7VZXAY)
+Link: (https://www.youtube.com/watch?v=bkeEC7VZXAY)
 
 # Description 
 - First Attempt at recreating a model containing two different modules colour sorting station and warehouse combo.
