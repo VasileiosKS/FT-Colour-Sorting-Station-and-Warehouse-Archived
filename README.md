@@ -1,4 +1,8 @@
 # FT  Colour Sorting Station and Warehouse (Archived)
+
+![alt text](https://github.com/VasileiosKS/FT-Colour-Sorting-Station-and-Warehouse-Archived/blob/main/image.png)
+
+
 # Video
 https://www.youtube.com/watch?v=bkeEC7VZXAY
 # Description 
