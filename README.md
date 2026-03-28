@@ -3,12 +3,12 @@
 
 # Video
 - Colour Sorting Link: (https://youtu.be/JaLzzelwHNo)
-- Warehouse Link: (https://youtu.be/MODcEDgMcRg)
+- Warehouse Link: (https://youtu.be/MODcEDgMcRg
+
 # Description 
 - First Attempt at recreating a model containing two different modules colour sorting station and warehouse combo.
-
+  
 # Detailed Part List:
-
 - Fischer Technik Kits:
   Various parts that were used from the following kits: 
   
@@ -42,7 +42,7 @@
           - Gearbox                            (31 078) (qt x1)  
 
 - Electronics:
-    - Arduino Uno (or any other microcontroller with at least 5 Inputs and 7 Outputs.)
+    - Arduino Nano (or any other microcontroller with at least 5 Inputs and 7 Outputs.)
     - Sensors:
         - Color Sensor: APDS9960 (qt x1)
         - Infrared Detection: TCRT5000 Based Modules (qt x4)
@@ -51,9 +51,11 @@
     - 3/2 Position Air Valve (qt x4)
     - XL6009 DC-DC Step Down Buck Converter (qt x1).
 
-- 3D Printed Parts:
-      At this version no 
+- 3D Printed Parts: No 3d-printed parts were used in this project.
 
-      Note: For more compatilble parts with FT's ecosystem, check out this repository:
+      Note: For more compatilble parts with FT's ecosystem, check out this repository: **https://github.com/VasileiosKS/CFTPL**
   
-        As well as the creations of these makers:
+  # Disclaimers:
+  •	All designs and information under this project, are open-sourced, and no monetary gains are expected. This project is not affiliated with Fischer Technik or its trademarks.
+  •	This document was personally written and reviewed for syntactical errors using AI language tools. No AI generated content is included.
+
