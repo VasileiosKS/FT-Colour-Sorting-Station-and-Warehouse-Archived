@@ -1,9 +1,9 @@
 # FT  Colour Sorting Station and Warehouse (Archived)
-
 ![alt text](https://github.com/VasileiosKS/FT-Colour-Sorting-Station-and-Warehouse-Archived/blob/main/image.png)
 
 # Video
-![alt text](https://www.youtube.com/watch?v=bkeEC7VZXAY)
+[![IMAGE ALT TEXT HERE](https://github.com/VasileiosKS/FT-Colour-Sorting-Station-and-Warehouse-Archived/blob/main/image.png)](https://www.youtube.com/watch?v=bkeEC7VZXAY)
+
 # Description 
 - First Attempt at recreating a model containing two different modules colour sorting station and warehouse combo.
 
@@ -52,7 +52,7 @@
     - XL6009 DC-DC Step Down Buck Converter (qt x1).
 
 - 3D Printed Parts:
-       While this model can be replicated using only Fischer Technik Blocks,
+      At this version no 
 
       Note: For more compatilble parts with FT's ecosystem, check out this repository:
   
